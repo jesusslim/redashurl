@@ -1,0 +1,21 @@
+{
+	"name": "jesusslim/redashurl",
+	"description": "tool for redash url output",
+	"license": "MIT",
+	"keywords": ["redash"],
+	"version": "1.0",
+	"authors": [
+		{
+			"name": "jesusslim",
+			"email": "755808379@qq.com"
+		}
+	],
+	"require": {
+		"php": ">=5.6.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"redashurl\\": "src/"
+		}
+	}
+}
